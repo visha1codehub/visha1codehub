@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny 😁**
 
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visha1codehub" alt="visha1codehub" /></a> </p>-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-gupta-466b7921b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-gupta" height="30" width="40" /></a>
