@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img aligh="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif ">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visha1codehub&label=Profile%20views&color=0e75b6&style=flat" alt="visha1codehub" /> </p>
 
