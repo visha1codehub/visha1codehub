@@ -1,4 +1,4 @@
-![logo](https://github.com/visha1codehub/visha1codehub/blob/main/Programming-Logic-Key-Ingredients-Banner.png)
+![logo](https://github.com/visha1codehub/visha1codehub/blob/main/Vishal%20Gupta.png)
 
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
