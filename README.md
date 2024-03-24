@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **itsvishalhack@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😁**
+- ⚡ Fun fact **I think I am not funny 😎**
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visha1codehub" alt="visha1codehub" /></a> </p>-->
 <h3 align="left">Connect with me:</h3>
