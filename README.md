@@ -1,6 +1,6 @@
 ![logo](https://github.com/visha1codehub/visha1codehub/blob/main/Vishal%20Gupta.png)
 
-<h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I'm Vishal Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif ">
