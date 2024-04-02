@@ -31,7 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=visha1codehub&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="visha1codehub" /></p>
 <!-- ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=visha1codehub&show_icons=true&theme=gruvbox) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visha1codehub&show_icons=true&theme=gruvbox" alt="visha1codehub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visha1codehub&show_icons=true&theme=gruvbox" alt="visha1codehub" />
 
-<p><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visha1codehub&theme=gruvbox" alt="visha1codehub" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=visha1codehub&theme=gruvbox" alt="visha1codehub" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /></p>
